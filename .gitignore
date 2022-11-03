@@ -1,7 +1,6 @@
-.log
-.project/
-
-appium.log
+/.project
+/appium.log
+/Reports/
 
 /bin/
 /Libs/
