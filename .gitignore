@@ -1,3 +1,7 @@
+.log/
+.project/
+
+appium.log/
 
 /bin/
 /Libs/
@@ -6,5 +10,3 @@
 .svn/
 .project
 Reports/
-appium.log
-.log
